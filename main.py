@@ -7,7 +7,7 @@ from email import encoders
 #Para configurar gmail y poder enviar correos hay que setear 2 verification y crear una custom app en la cuenta de google
 # Iniciamos los parámetros del script
 remitente = "bolivariano.automated@gmail.com"
-my_pass = "qhuvifmjaguvhyij"
+
 destinatarios = "cristobalnegocio@gmail.com"
 asunto = '[RPI] Correo de prueba'
 cuerpo = 'Este es el contenido del mensaje'
